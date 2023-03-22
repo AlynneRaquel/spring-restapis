@@ -1,12 +1,20 @@
-# photo-portifolio
+# Spring Rest API
 
-## **Curso Udemy - Git e GitHub na Vida Real (Avançado)**
+## **Imersão Spring Rest - AlgaWorks**
 
-**Projeto criado para aprimorar conhecimentos Git/GitHub**
+**Update de conhecimentos** 
+- Ecossistema Spring
+- Jakarta Persistences JPA
+- Spring data JPA
+- Validação de dados com jakarta bean validation
+- Tratamento de exerções e modelagem de erros da api
 
-**Estou aprendendo:** 
-- Comandos mais avançados do Git
-- Como trabalhar melhor com histórico de Logs
-- Resolver conflitos no Git
-- Workflows comuns em empresas
-- Flows no Github (Pull Request, Issues, Templates, Code Review)
+**Ferramentas** 
+- IDE STS
+- Flyway
+- Lombok
+- Mysql /Workbench
+- Postman
+
+**Projeto UML**
+
